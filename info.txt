@@ -1,0 +1,11 @@
+Admin login :
+gmail = admin1@gmail.com
+pass  = password1
+
+Guru Login :
+gmail = budi@gmai.com
+pass  = password123
+
+Murid Login :
+gmail = alex@.example.com
+pass  = password1
